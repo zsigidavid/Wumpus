@@ -1,0 +1,8 @@
+d: 11 lépés
+d: 8 lépés
+da: 6 lépés
+apa: 7 lépés
+este: 5 lépés
+wq: 22 lépés
+wq: 15 lépés
+nemtom: 40 lépés
