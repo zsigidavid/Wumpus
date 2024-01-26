@@ -1,0 +1,21 @@
+A Vezérlő felelős a Modell és a Nézet közötti kommunikációért. 
+Ez a komponens kezeli a felhasználói interakciókat és frissíti a Modellt és a Nézetet a megfelelő módon.
+
+Az MVC minta előnye, hogy lehetővé teszi a fejlesztők számára, hogy elkülönítsék az alkalmazás logikáját a felhasználói felülettől, ami megkönnyíti a kód karbantartását és tesztelését.
+Az objektumorientált tervezési minták, mint például az MVC, kulcsszerepet játszanak a modern szoftvertervezésben, mivel segítenek a fejlesztőknek abban, hogy hatékony, karbantartható és rugalmas kódot hozzanak létre.
+
+Az alábbiakban néhány további objektumorientált tervezési mintát ismertetek:
+
+Singleton: Ez a minta biztosítja, hogy egy osztályból csak egy példány létezzen, és globális hozzáférést biztosítson ehhez az egyetlen példányhoz.
+
+Builder: Ez a minta lehetővé teszi egy objektum komplex létrehozását és annak reprezentációját úgy, hogy ugyanaz a konstrukciós folyamat különböző típusú objektumokat hozhasson létre.
+
+Prototype: Ez a minta meghatározza az objektumok klónozásának módját, így az eredeti objektum létrehozása nélkül hozhatunk létre új objektumokat.
+
+Adapter: Ez a minta lehetővé teszi, hogy egy osztály interfésze egy másikhoz illeszkedjen. Az adapterek segítségével osztályokat használhatunk, amelyek interfészei nem kompatibilisek.
+
+Decorator: Ez a minta lehetővé teszi, hogy egy objektum viselkedését dinamikusan, futás közben bővítsük vagy módosítsuk.
+
+Facade: Ez a minta egyszerű interfészt biztosít egy komplex rendszerhez. A homlokzat segítségével egyszerűbbé tehetjük a komplex rendszerek használatát.
+
+Observer: Ez a minta olyan objektumokat definiál, amelyeknek állapota függ a másik objektum állapotától. Ha az állapot megváltozik, az objektum értesíti a függő objektumokat.
